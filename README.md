@@ -1,4 +1,4 @@
-# tas-seq-pipeline
+# TAS-Seq-pipeline
 
 A single-file, self-contained processing pipeline for TAS-Seq /
 BD Rhapsody Enhanced-bead scRNA-seq data: cell-barcode & UMI
