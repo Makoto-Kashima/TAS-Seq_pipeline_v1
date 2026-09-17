@@ -177,5 +177,4 @@ Also cite the underlying tools: `fastp`, `bwa`, `samtools`, `salmon`.
 
 ## License
 
-[Add a LICENSE file and state the license here, e.g. MIT, before
-making the repository public.]
+- This project is licensed under the MIT License 
