@@ -171,10 +171,8 @@ If you use this pipeline, please cite:
 - Smith T, Heger A, Sudbery I. UMI-tools: modeling sequencing errors
   in Unique Molecular Identifiers to improve quantification accuracy.
   *Genome Res.* 2017;27(3):491-499. (directional deduplication method)
-- [Add citation for the original TAS-Seq method / BD Rhapsody platform]
-- [Add citation for this pipeline / the associated manuscript, once
-  published]
-
+- Shichino S, Ueha S, Hashimoto S, et al. TAS-Seq is a robust and sensitive amplification method for bead-based scRNA-seq. Commun Biol. 2022;5:602. (terminator-assisted solid-phase cDNA amplification and sequencing method)
+- Hasegawa M, Oshita M, Naruse K, et al. Oxytocin regulates TN-GnRH3 circuit maturation and mate preference through C1q-dependent synaptic mechanisms. bioRxiv [Preprint]. 2026. doi:10.64898/2026.05.17.725056.
 Also cite the underlying tools: `fastp`, `bwa`, `samtools`, `salmon`.
 
 ## License
